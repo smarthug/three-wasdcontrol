@@ -1,0 +1,21 @@
+{
+  "name": "three-wasdcontrol",
+  "version": "0.0.1",
+  "description": "three.js wasd control",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": "git@github.com:smarthug/three-wasdcontrol.git",
+  "author": "smarthug <kirklayer@gmail.com>",
+  "keywords": [
+    "three.js",
+    "three",
+    "wasd"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+   
+  },
+  "dependencies": {
+    
+  }
+}
